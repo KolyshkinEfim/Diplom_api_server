@@ -1,0 +1,290 @@
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.csproj.AssemblyReference.cache
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.AssemblyInfoInputs.cache
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.AssemblyInfo.cs
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.csproj.CoreCompileInputs.cache
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cs
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cache
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\appsettings.Development.json
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\appsettings.json
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\test crud.exe
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\test crud.deps.json
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\test crud.runtimeconfig.json
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\test crud.runtimeconfig.dev.json
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\test crud.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\ref\test crud.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\test crud.pdb
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\staticwebassets\test crud.StaticWebAssets.Manifest.cache
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\staticwebassets\test crud.StaticWebAssets.xml
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\scopedcss\bundle\test crud.styles.css
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.RazorTargetAssemblyInfo.cache
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.csproj.CopyComplete
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.dll
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\ref\test crud.dll
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.pdb
+Y:\Проекты Visual Studio\test crud\obj\Debug\net5.0\test crud.genruntimeconfig.cache
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\EntityFramework.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\System.CodeDom.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\System.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\test crud.StaticWebAssets.xml
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\test crud.exe
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\test crud.deps.json
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\test crud.runtimeconfig.json
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\test crud.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\test crud.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\ref\test crud.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\test crud.pdb
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\scopedcss\bundle\test crud.styles.css
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\staticwebassets\test crud.StaticWebAssets.Manifest.cache
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.RazorTargetAssemblyInfo.cache
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.csproj.CopyComplete
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.dll
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\ref\test crud.dll
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.pdb
+C:\Users\User\Source\Repos\Diplim\test crud\obj\Debug\net5.0\test crud.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Source\Repos\Diplim\test crud\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\appsettings.Development.json
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\appsettings.json
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\test crud.exe
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\test crud.deps.json
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\test crud.runtimeconfig.json
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\test crud.runtimeconfig.dev.json
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\test crud.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\ref\test crud.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\test crud.pdb
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\AutoMapper.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\EntityFramework.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.CodeDom.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.csproj.AssemblyReference.cache
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.AssemblyInfoInputs.cache
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.AssemblyInfo.cs
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.csproj.CoreCompileInputs.cache
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cs
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cache
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\staticwebassets\test crud.StaticWebAssets.Manifest.cache
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\staticwebassets\test crud.StaticWebAssets.xml
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\scopedcss\bundle\test crud.styles.css
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.RazorTargetAssemblyInfo.cache
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.csproj.CopyComplete
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\ref\test crud.dll
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.pdb
+Y:\Проекты Visual Studio\test crud beta\test crud\obj\Debug\net5.0\test crud.genruntimeconfig.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\appsettings.Development.json
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\appsettings.json
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\test crud.exe
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\test crud.deps.json
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\test crud.runtimeconfig.json
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\test crud.runtimeconfig.dev.json
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\test crud.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\test crud.pdb
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\AutoMapper.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\EntityFramework.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.CodeDom.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.Data.SqlClient.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.csproj.AssemblyReference.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.GeneratedMSBuildEditorConfig.editorconfig
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.AssemblyInfoInputs.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.AssemblyInfo.cs
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.csproj.CoreCompileInputs.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cs
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.MvcApplicationPartsAssemblyInfo.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\staticwebassets\test crud.StaticWebAssets.Manifest.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\scopedcss\bundle\test crud.styles.css
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.RazorTargetAssemblyInfo.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.csproj.CopyComplete
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\ref\test crud.dll
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.pdb
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\test crud.genruntimeconfig.cache
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\bin\Debug\net5.0\test crud.StaticWebAssets.xml
+Y:\VisualWorks\Visual_Studio_Proj\test crud beta\test crud\obj\Debug\net5.0\refint\test crud.dll
